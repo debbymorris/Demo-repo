@@ -1,4 +1,4 @@
 # Demo
 
 Some description!!
-instulation procedures
+installation procedures
